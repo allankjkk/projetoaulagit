@@ -1,4 +1,3 @@
-Faculdade Uniesp
 Curso Sistemas para Internet
 Disciplina: Tecnologia para Front-end
 
